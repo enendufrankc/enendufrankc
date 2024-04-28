@@ -1,13 +1,48 @@
-### Hi there 👋
+![Alt text](https://media.licdn.com/dms/image/D4E16AQEiXRfLx24HWQ/profile-displaybackgroundimage-shrink_350_1400/0/1671275356457?e=1720051200&v=beta&t=oAbLAArpWemCGP5MG4jDFZxQwMgbANNdVMtTFjaBD_I )
 
-Here are some ideas to get you started:
+# Hello, I'm Frank 👋
 
-- 🔭 I’m currently a masters student at the University of Liverpool
-- 🌱 I’m currently learning how to implement neural network and data mining algorithms
-- 👋 I’m looking to collaborate on projects related to artificial intelligence
-- 🤔 I’m looking for help with a role as a junior data scientist
-- 💬 Ask me about Data Science, AI, Machine Learning, Data Mining
-- 📫 How to reach me: enendufrankc@yahoo.com
-- 😄 Pronouns: Him/His
-- ⚡ Fun fact: I sing Opera
--->
+## About Me
+I'm a Software Engineer, a Data Scientist and an AI Engineer with a Master’s degree in Data Science and Artificial Intelligence from the University of Liverpool. I specialize in managing the entire lifecycle of machine learning projects including data engineering, model engineering, deployment, and MLOps. My technical prowess spans across developing and integrating large language models like GPT, Llama, and BERT using various cloud platforms like Azure AI and Vertex AI.
+
+## Technical Skills
+- **Programming Languages:** Python, R, SQL
+- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn, Keras, NLTK, spaCy, OpenCV
+- **MLOps:** Docker, CI/CD with GitHub Actions, MLFlow, Airflow, Kubeflow
+- **Large Language Models:** OpenAI, Llama, Bert, Hugging Face, Streamlit
+- **Software Engineering:** API design, OOP, Software Design Patterns, Git
+- **Data Engineering:** MySQL, PostgreSQL
+- **Cloud Services:** Azure (Synapse Analytics, Cognitive Services)
+- **Business Intelligence:** Power BI, Tableau
+
+## Experience
+### BCN Group, Manchester Office - Graduate Machine Engineer (08/2023 - Present)
+- Developed a chat app using Azure OpenAI for internal knowledge base interaction.
+- Implemented an LSTM Autoencoder for anomaly detection integrated with Azure Synapse Analytics and Power BI.
+- Enhanced email classification efficiency using Microsoft CLU model integrated with Azure Language Understanding API.
+
+### HubPay, London Office - Junior Data Scientist (12/2021 - 01/2023)
+- Conducted sentiment analysis using NLTK on customer support interactions.
+- Developed scripts for customer segmentation and KYC reporting.
+- Built models for FX rate prediction to aid internal team decision-making.
+
+### More experiences detailed on [LinkedIn](#)
+
+## Projects
+I passionately build and contribute to various personal and open-source projects. These range from small fun tools to large scalable systems that address complex real-world problems. Check out my [GitHub](#) or my [personal portfolio](#) for more insights into my project work.
+
+## Education
+- **University of Liverpool, UK** - MSc in Data Science and Artificial Intelligence (09/2022 - 09/2023)
+- **Federal University of Technology Owerri, Nigeria** - BTech in Logistics Management (09/2013 - 08/2018)
+
+## Soft Skills
+- **Communication:** Effective at simplifying complex concepts for diverse audiences.
+- **Problem-solving:** Innovative and analytical thinker with a knack for creative solutions.
+- **Teamwork:** Committed to collaboration and skilled in conflict resolution.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/enendu-frank-chinedu/)
+- [Email](mailto:frank@favai.onmicrosoft.com)
+
+Feel free to reach out if you'd like to collaborate on a project or just connect!
+
