@@ -16,7 +16,7 @@ I'm a Software Engineer, a Data Scientist and an AI Engineer with a Master’s d
 - **Business Intelligence:** Power BI, Tableau
 
 ## Experience
-### BCN Group, Manchester Office - Graduate Machine Engineer (08/2023 - Present)
+### BCN Group, Manchester Office - AI Engineer (08/2023 - Present)
 - Developed a chat app using Azure OpenAI for internal knowledge base interaction.
 - Implemented an LSTM Autoencoder for anomaly detection integrated with Azure Synapse Analytics and Power BI.
 - Enhanced email classification efficiency using Microsoft CLU model integrated with Azure Language Understanding API.
