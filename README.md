@@ -1,4 +1,4 @@
-![Frank Enendu](https://media.licdn.com/dms/image/D4E16AQHJdljrUjzGSg/profile-displaybackgroundimage-shrink_350_1400/0/1717215519608?e=1723075200&v=beta&t=bS1Riy6i6pdV-GYbzY22kmL0IyYqY5sfe5sVhCQAups)
+![Frank Enendu](https://media.licdn.com/dms/image/v2/D4E16AQHJdljrUjzGSg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719349902209?e=1733961600&v=beta&t=RRsK2h5dY2QjFUGH0wp6upFmKN69WtaCY5KZ2PagU1w)
 
 # Hello, I'm Frank 👋
 
